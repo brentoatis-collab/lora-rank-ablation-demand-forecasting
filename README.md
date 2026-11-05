@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Testing adapter-rank tradeoffs for demand-forecasting accuracy and efficiency.
+
 # Single-GPU LoRA Rank Ablation for Short-Horizon Demand Forecasting
 
 **Brent Oatis | Applied ML engineering portfolio | October 2026**
